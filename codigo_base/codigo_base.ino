@@ -1,13 +1,13 @@
 /*
  * Olá Maria,
- * Abaixo segue um esboço de código para controlar o _________
+ * Abaixo segue um esboço de código para controlar o Torradeira
  * 
  * Lhe proponho uma serie de desafios:
  *    1 - Fazer com que o robô gire tanto pra direita quanto pra esquerda
  *    2 - Construir uma pista de linha com curvas arredondadas (baixa angulação)
- *    3 - Instalar dois sensores de linha no ________
+ *    3 - Instalar dois sensores de linha no Torradeira
  *    4 - Realizar testes com os sensores de linha e definir os valores de corte
- *    5 - Tornar o _________ capaz de seguir a linha.
+ *    5 - Tornar o Torradeira capaz de seguir a linha.
  *    
  * Não são desafios fáceis. (não mesmo rsrs)
  * Mas, tenho certeza de que você consegue!!! :)
